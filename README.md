@@ -1,10 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Typescript Course" />
-
-  &#xa0;
-
-  <!-- <a href="https://typescriptcourse.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Typescript Course</h1>
 
