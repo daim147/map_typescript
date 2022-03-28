@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^6.0.0-beta.0",
-    "@types/google.maps": "^3.48.2"
+    "@types/google.maps": "^3.48.2",
+    "axios": "^0.26.1"
   }
 }
