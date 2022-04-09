@@ -1,5 +1,5 @@
-import axios from 'axios';
 /// <reference types="@types/google.maps" />
+import axios from 'axios';
 
 const form = document.querySelector('form')!;
 const addressInput = document.getElementById('address')! as HTMLInputElement;
